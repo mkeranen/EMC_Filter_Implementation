@@ -9,7 +9,7 @@ An emerging alternative to standard gasoline powered vehicles is the electric or
 
 # Problem Statement
 
-The FlexRay communications system is a time-deterministic communications protocol for in-vehicle control applications. It is designed to provide high speed distributed control for advanced automotive applications. It is known, that for FlexRay to operate properly, the noise on the power line must be <40dB A between frequencies of 2MHz to 7MHz.
+The FlexRay communications system is a time-deterministic communications protocol for in-vehicle control applications. It is designed to provide high speed distributed control for advanced automotive applications. It is known, that for FlexRay to operate properly, the noise on the power line must be <40dBuA between frequencies of 2MHz to 7MHz.
 
 Noise on the power line exceeding this requirement has been identified and measured to be above the allowable limit (PENG, et al., 2016). The figure below displays interference currents in excess of 60dB near 4MHz during an electric assist braking event.
 
